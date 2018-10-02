@@ -1,0 +1,3 @@
+@echo off
+msg * Lets Roll Baby
+shutdown -c “Error! Your ass got glued!” -s
